@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
  <meta charset="UTF-8">
@@ -36,6 +36,7 @@
  <p>Здесь будет размещено какое-то
 изображение.</p>
 </div>
-<script src="script.js"></script>
+<script src="script.js">
+</script>
 </body>
 </html>
